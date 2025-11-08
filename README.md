@@ -10,10 +10,10 @@ Préparez-vous à des heures de chaos hilarant, de rires et de compétition fér
 
 <ins>Principales fonctionnalités : </ins>
 
-    > Combat hilarant jusqu'à 4 joueurs : affrontez vos amis dans des arènes fantaisistes où tout peut arriver !
-    > Mouvements farfelus : utilisez des techniques de combat ridicules pour éjecter vos adversaires de l'arène.
-    > Arènes interactives : évitez les pièges et utilisez l'environnement à votre avantage !
-    > Collection de couronnes : gagnez des manches pour gagner des couronnes et devenez le champion ultime de Bob Fight !
-    > Graphiques colorés et animation comique : plongez dans un monde plein de personnages hilarants et de situations absurdes.
+> Combat hilarant jusqu'à 4 joueurs : affrontez vos amis dans des arènes fantaisistes où tout peut arriver !
+> Mouvements farfelus : utilisez des techniques de combat ridicules pour éjecter vos adversaires de l'arène.
+> Arènes interactives : évitez les pièges et utilisez l'environnement à votre avantage !
+> Collection de couronnes : gagnez des manches pour gagner des couronnes et devenez le champion ultime de Bob Fight !
+> Graphiques colorés et animation comique : plongez dans un monde plein de personnages hilarants et de situations absurdes.
     
 Rejoignez la folie de Bob Fight et montrez à vos amis qui est le véritable roi de la bagarre !
